@@ -1,4 +1,4 @@
-//LEARNPROGRAMO - PROGRAMMING MADE SIMPLE
+
 #include<stdio.h>
 
 #include<conio.h>
