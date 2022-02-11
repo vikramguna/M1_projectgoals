@@ -7,7 +7,7 @@
 | HLR4 |Email|vikram@gmail.com|vikram@gmail.com|vikram@gmail.com|Requirement based
 
 ## Low Level Requirements
-|Test Id   | |Test Type|
+|Test Id   |Description |Test Type|
 |--|--|--|--|--|--|
 | HLR1 |The application will ask the user to choose from 1 to 5 |Implemented
    | |[1] Add a new contact |
