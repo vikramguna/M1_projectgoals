@@ -33,7 +33,7 @@ int main()
 
 main:
 
-    system("cls");    /* ************Main menu ***********************  */
+    system("cls");   
 
     printf("\n\t **** Welcome to Contact Management System ****");
 
@@ -53,7 +53,7 @@ main:
 
         break;
 
-        /* *********************Add new contacts************  */
+        
 
     case 1:
 
@@ -102,7 +102,7 @@ main:
 
         break;
 
-        /* *********************list of contacts*************************  */
+        
 
     case 2:
 
@@ -152,7 +152,7 @@ main:
 
         break;
 
-        /* *******************search contacts**********************  */
+        
 
     case 3:
 
@@ -229,7 +229,7 @@ main:
 
         break;
 
-        /* *********************edit contacts************************/
+        
 
     case 4:
 
@@ -295,7 +295,7 @@ main:
 
         break;
 
-        /* ********************delete contacts**********************/
+        
 
     case 5:
 
