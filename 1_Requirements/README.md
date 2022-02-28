@@ -1,4 +1,9 @@
-﻿## High Level Requirements
+## Introduction
+Contact Management System is built in C. It is similar to contact manager in cell phones. 
+In this project you can add contacts, view contacts, edit contacts, search and delete contacts.
+You can list contacts by name, phone no., address and email.
+
+## High Level Requirements
 |Test Id  | Description |Exp I/P  |Exp O/P  |Act O/P  |Test Type  |
 |--|--|--|--|--|--|
 | HLR1 |Add a new contact |Name : vikram |vikram |vikram|Requirement based
