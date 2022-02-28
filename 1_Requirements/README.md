@@ -14,6 +14,24 @@ You can list contacts by name, phone no., address and email.
 
 5.Delete contacts: deletes contacts from file
 
+## SWOT Analysis
+1.STRENGTH
+
+     - Its main function is tracking contact data.
+
+     - show the information and description of the contact.
+
+     - Contact Management System keeps the history of past conversations calls.
+2.WEAKNESS
+
+     -Mobile Hanging
+3.OPPORTUNITIES
+
+     - Mobile services
+4.THREADS
+
+     - Due to leakage of contact password, fraud can take place easily.
+
 ## High Level Requirements
 |Test Id  | Description |Exp I/P  |Exp O/P  |Act O/P  |Test Type  |
 |--|--|--|--|--|--|
