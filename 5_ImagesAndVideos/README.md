@@ -10,6 +10,6 @@
 ![pic 5](https://user-images.githubusercontent.com/53256465/155991131-d46fcb39-688d-46b2-b686-d424b90b71f8.PNG)
 # Delete Contacts
 ![pic 6](https://user-images.githubusercontent.com/53256465/155991295-367f2fc2-da9f-488e-9965-7b77a3634867.PNG)
-# Exit
+# Exi
 ![pic 7](https://user-images.githubusercontent.com/53256465/155991432-504ace12-8e55-406d-bb97-9c6b22d018a5.PNG)
 
