@@ -10,7 +10,7 @@
  */
 #ifndef PERSONAL_H
 #define PERSONAL_H
-//#define size 5
+//#define size 4
 #include "math.h"
 #include<stdio.h>
 #include<stdlib.h>
